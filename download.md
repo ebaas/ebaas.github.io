@@ -8,7 +8,7 @@ title: Download Page
 	<h3>Ebaas</h3>
 	<p>Ebaas is a high-productivity enterprise application platform. It supports a no-code and metadata-driven development method that enables professional and nonprofessional developers to rapidly build single page applications for business data managements. <a class="post-link" href="https://ebaas.github.io/blog/MetadataDrivenArchitecture/">Read more</a></p> 	
 	<p>
-	<a href="https://github.com/ebaas/ebaas.github.io/releases/download/v.7.2.0/Ebaas_7.2.0_x64_Setup.msi" class="next button__outline">Download Ebaas 7.2.0 (Out-of-the-box version)</a>
+	<a href="https://github.com/ebaas/ebaas.github.io/releases/download/v.7.3.0/Ebaas_7.3.0_x64_Setup.msi" class="next button__outline">Download Ebaas 7.3.0 (Out-of-the-box version)</a>
 	</p>
 	<p>
 	<a class="post-link" href="https://ebaas.github.io/blog/InstallEbassHelp/">Setting up Ebaas and getting started</a>
