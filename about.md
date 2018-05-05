@@ -10,7 +10,7 @@ title: About Yong Zhang
 	</div>
 	<p>Yong Zhang is a proven software professional with a consistent track record of
 	creating successful enterprise applications. He is the creator of no-code
-enterprise application platform, enabling businesses to build Single Page Applications quickly without coding.
+enterprise application platform (Ebaas), enabling businesses to build Single Page Applications quickly without coding.
 </p>
 	<h2>Facts about me</h2>
 	<ul>
@@ -28,10 +28,10 @@ enterprise application platform, enabling businesses to build Single Page Applic
   	</ul>
 	<h2>Programming skills</h2>
 	<ul>
-		<li>C#, JavaScript, HTML5, JSON, SQL, Java, Python</li>
-  		<li>AngularJS, Angular 5, RESTFul API, Bootstrap</li>
-		<li>Enterprise Application Development, Software Architecture, Object-oriented Design/Programming, Distributed Computing, SOA</li>
-		<li>Oracle, SQL Server, Elasticsearch</li>
+		<li>Backend: C#, Java, JavaScript, SQL, RESTFul API</li>
+  		<li>Frontend: AngularJS, Angular 5, HTML, CSS, Bootstrap</li>
+		<li>Database: Oracle, SQL Server, Elasticsearch</li>
 		<li>Deep Learning, Time Series Prediction, Microsoft CNTK</li>
+		<li>Enterprise Application Development, Software Architecture, Object-oriented Design/Programming, Distributed Computing</li>
   	</ul>
 </div>
