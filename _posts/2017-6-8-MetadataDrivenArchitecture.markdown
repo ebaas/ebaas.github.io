@@ -17,7 +17,7 @@ Ebaas is designed and built from the ground up based on a metadata-driven archit
 * Workflow model
 * Form template and processing
 * Data validations
-* Full-text search indexing
+* Full-text search indexing with Elasticsearch
 * Access control policy
 * User interface layout
 * ETL (Extract, Transform, Load)
