@@ -11,7 +11,7 @@ Some of the challenges found in developing enterprise applications are the abili
 
 Software companies have come to realize that it isn’t a good practice to develop enterprise application in a traditional way of implementing business logic in software due to the low-productivity nature of programming and ever-changing business requirements. The software developers have been using the metadata-driven (or model-driven) approach to describe business logic as a metadata which is external to the software code. There is a broad range of usage from a limited implementation where a few elements of an application are represented via metadata to maximum usage where the entire application is defined by metadata.
 
-Ebaas is designed and built from the ground up based on a metadata-driven architecture (MDDA) in which all areas of data management applications are defined by models, including data model, workflow, business logic, security policy, user interface, ETL, and report.
+Ebaas is designed and built from the ground up based on a metadata-driven architecture (MDDA) in which all areas of data management applications are defined by models, including data model, workflow, business logic, full-text search indexing, security policy, user interface, ETL, and report.
 
 For example, you can use the object-oriented model to define data structure of your application (classes, relationships, and attributes) as well as access control policy, methods, events and actions to events. All parts of the data model are defined as metadata. Ebaas uses a relational database to store all metadata and all application data. To optimize application performance, Ebaas keeps all application metadata in memory.
 
