@@ -23,7 +23,7 @@ enterprise application platform, enabling businesses to build Single Page Applic
   	</ul>
 	<h2>Accomplishments</h2>
 	<ul>
-		<li>Designed and developed a model-driven Enterprise Application Platform (Ebaas) with more than 200,000 lines of code, enabling businesses to build applications with features or capabilities including data management, process management, form generation, reporting, ETL, messaging, security, responsive UI and Rest API for application integrations.</li>
+		<li>Designed and developed a model-driven Enterprise Application Platform (Ebaas) with more than 200,000 lines of code, enabling businesses to build applications with features or capabilities including data management, workflow management, Elasticsearch-based full-text search, web form design, reporting, ETL, messaging, security, responsive UI and Rest API for application integrations.</li>
   		<li>Design and developed a Machine Learning Studio that makes it easy for businesses to use Deep Learning technologies to solve their business problems.</li>
   	</ul>
 	<h2>Programming skills</h2>
@@ -31,7 +31,7 @@ enterprise application platform, enabling businesses to build Single Page Applic
 		<li>C#, JavaScript, HTML5, JSON, SQL, Java, Python</li>
   		<li>AngularJS, Angular 5, RESTFul API, Bootstrap</li>
 		<li>Enterprise Application Development, Software Architecture, Object-oriented Design/Programming, Distributed Computing, SOA</li>
-		<li>Oracle, SQL Server, My SQL, Elasticsearch</li>
+		<li>Oracle, SQL Server, Elasticsearch</li>
 		<li>Deep Learning, Time Series Prediction, Microsoft CNTK</li>
   	</ul>
 </div>
