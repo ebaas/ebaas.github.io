@@ -22,10 +22,13 @@ ES软件不包含在Ebaas平台的安装包中，需要单独安装（可以在E
 
 ES的安装很简单，这里我们介绍在Windows上安装ES。
 
-* 确保机器上已经安装了JDK8以上版本
+* 确保机器上已经安装了Java8以上版本
 * 下载ES (要求6.2.3以上版本）：官网下载地址：<a class='post-link' href='https://www.elastic.co/downloads/elasticsearch'>https://www.elastic.co/downloads/elasticsearch</a> 
 * 将下载后的文件解压到指定的目录（例如： C:/eshome/elasticsearch-6.2.3)，后续称为ES安装目录
 * 使用“{ES安装目录}/bin/elasticsearch.bat”启动ES服务器
+
+{% include note.html content="如果双击elasticsearch.bat不能启动ES，可以用CMD执行运行这个文件来查看具体错误。通常问题是Java8没有安装正确或者是电脑的内存不够运行ES默认的配置（ES默认需要1个G的内存作为Heap空间）。如果是内存不足原因，可以修改ES的config目录下的jvm.options中的Xms和Xmx配置。" %}
+
 * 假如ES安装在本地电脑上，可以使用浏览器访问  http://localhost:9200, 会在浏览器显示类似下列结果。
 
 {% highlight ruby %}
