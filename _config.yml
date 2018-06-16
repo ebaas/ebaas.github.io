@@ -16,8 +16,8 @@ navigation:
    url: /index.html
  - title: Download
    url: /download
- - title: Demo
-   url: /demo
+ #- title: Demo
+ #  url: /demo
  - title: About
    url: /about
  - title: Contact
